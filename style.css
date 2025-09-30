@@ -1,0 +1,58 @@
+.circle img{
+    width:  50%;
+    border: 2px solid red;
+    border-radius: 50%;
+}
+.curve img{
+    width:  50%;
+    border: 2px solid red;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+.rectangle img{
+    width:  50%;
+    border: 2px solid red;
+}
+.close img{
+    width:  50%;
+    border: 2px solid red;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+.circle{
+    margin-top: 50px; margin-left: 50px;
+}
+.circle .description{
+    margin-left: 300px; color: blue;
+}
+.curve .user{
+    margin-left: 300px; color: blue;
+}
+.rectangle .john{
+    margin-left: 300px; color: blue;
+}
+.close .new{
+    margin-left: 300px; color: blue;
+}
+.curve{
+    margin-top: 50px; margin-left: 50px;
+}
+.rectangle{
+    margin-top: 50px; margin-left: 50px;
+}
+.close{
+    margin-top: 50px; margin-left: 50px;
+}
+footer center{
+    margin-top: 30px;
+    background-color: black; color: white; padding: 20px; 20px; 20px;
+}
+div img{
+     width:  50%;
+    border: 2px solid red;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    
+}
